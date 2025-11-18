@@ -7,7 +7,7 @@ import org.junit.Test;
 public class SistemaDeGestionTest {
 
 	@Test
-	public void test() {
+	public void queAndeElRepositorioDeGitConEclipse() {
 		fail("Not yet implemented");
 	}
 
